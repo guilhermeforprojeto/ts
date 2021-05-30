@@ -1,4 +1,4 @@
-<h5>Curso TypeScript da Microsoft -> 
+<h5>Curso TypeScript da Microsoft <h5>  
 Site do curso! https://bitlybr.com/79f3NLkV
 Criar aplicativos JavaScript usando o TypeScript 
   
